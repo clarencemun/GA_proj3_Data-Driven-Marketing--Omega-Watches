@@ -3,6 +3,8 @@
 # Group 02: 
 ## Marketing With Data: Employing NLP (Natural Language Processing) to reduce subjectivity in ad creation and evaluation
 
+![App screenshot](screenshot.jpg)
+
 ### Brief background
 
 OMEGA started out in 1848 as a watch workshop and quickly developed into a global watch brand in the 1900s with the start of an olympic legacy, being the sponsor to its sporting events.
